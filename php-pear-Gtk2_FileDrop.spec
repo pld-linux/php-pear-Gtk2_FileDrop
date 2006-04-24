@@ -30,8 +30,8 @@ files or folders.
 In PEAR status of this package is: %{_status}.
 
 %description -l pl
-Klasa pozwalj±ce w ³atwy sposób na obs³ugiwanie przez widget Gtk2
-dodawania na zasadzie przeci±gnij i upu¶c (drag & drop) plików lub
+Klasy pozwalj±ce w ³atwy sposób na obs³ugê przez widget Gtk2
+dodawanie na zasadzie przeci±gnij i upu¶c (drag & drop) plików lub
 katalogów.
 
 Ta klasa ma w PEAR status: %{_status}.
