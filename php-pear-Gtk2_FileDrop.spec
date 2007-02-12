@@ -5,7 +5,7 @@
 %define		_pearname	Gtk2_FileDrop
 
 Summary:	%{_pearname} - make Gtk widgets accept file drops
-Summary(pl):	%{_pearname} - obs³uga plików przez widgety Gtk
+Summary(pl.UTF-8):   %{_pearname} - obsÅ‚uga plikÃ³w przez widgety Gtk
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
 Release:	1
@@ -30,10 +30,10 @@ files or folders.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Klasy pozwalaj±ce w ³atwy sposób na obs³ugê przez widget Gtk2
-dodawanie na zasadzie przeci±gnij i upu¶æ (drag & drop) plików lub
-katalogów.
+%description -l pl.UTF-8
+Klasy pozwalajÄ…ce w Å‚atwy sposÃ³b na obsÅ‚ugÄ™ przez widget Gtk2
+dodawanie na zasadzie przeciÄ…gnij i upuÅ›Ä‡ (drag & drop) plikÃ³w lub
+katalogÃ³w.
 
 Ta klasa ma w PEAR status: %{_status}.
 
