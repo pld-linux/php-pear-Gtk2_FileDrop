@@ -5,7 +5,7 @@
 %define		_pearname	Gtk2_FileDrop
 
 Summary:	%{_pearname} - make Gtk widgets accept file drops
-Summary(pl.UTF-8):   %{_pearname} - obsługa plików przez widgety Gtk
+Summary(pl.UTF-8):	%{_pearname} - obsługa plików przez widgety Gtk
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
 Release:	1
